@@ -70,4 +70,4 @@ No build step and no runtime of its own — there is nothing to compile or deplo
 
 ## Contact
 
-The source and configuration are private. If you're a recruiter or you'd like a walkthrough or demo, reach out: **[your email or LinkedIn here]**.
+The source and configuration are private. If you're a recruiter or you'd like a walkthrough or demo, reach out: https://www.linkedin.com/in/nirdeshadusumilli/ or adusumillinirdesh@gmail.com
